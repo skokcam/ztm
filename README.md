@@ -1,2 +1,2 @@
-# ztm
+# ZTM
 ztm exercises
