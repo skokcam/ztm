@@ -1,0 +1,9 @@
+body {
+	background: linear-gradient(to right, red, yellow);
+	text-align: center;
+	text-transform: uppercase;
+}
+
+h3 {
+	text-transform: lowercase;
+}
