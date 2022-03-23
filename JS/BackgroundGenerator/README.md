@@ -1,1 +1,1 @@
-#ZTM Bacground Generator
+# ZTM Background Generator
