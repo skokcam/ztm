@@ -1,1 +1,1 @@
-#ZTM JavaScript exercises
+# ZTM JavaScript exercises
